@@ -190,7 +190,7 @@ error-message {
 ```
 
 
-## .config/rofi/img/wolf.png
+## .config/rofi/img/wallhaven-4d8xkg_1600x1200-LAST.png
 
 ![wolf](https://github.com/user-attachments/assets/2657f31d-3035-45b7-80ee-6f97a77e279e)
 
